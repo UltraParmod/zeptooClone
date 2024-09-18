@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "566453058434",
+    "project_id": "zeptooclone",
+    "storage_bucket": "zeptooclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566453058434:android:1519a31bc44d7f6ff9ed9b",
+        "android_client_info": {
+          "package_name": "com.zeptooclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566453058434-agdvteh0cksm2h8jdrfh3jbnbtkjt4fu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zeptooclone",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "566453058434-ttp8a2b6dcc545kk86df63kcasg3ltlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU1mgTi1RGBLmauePQDqT0-wM5V5l4ZLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566453058434-ttp8a2b6dcc545kk86df63kcasg3ltlf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
